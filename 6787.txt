@@ -322,7 +322,7 @@ I have the generals' word--a written promise!
 Max. Piccolomini stands not here--how's that?
 
 TERZRY.
-It was--be fancied----
+It was--he fancied----
 
 ILLO.
            Mere self-willedness.
@@ -406,7 +406,7 @@ Been calm and chary of my utterance;
 But being conscious of the innocence
 Of my intent, my uncorrupted will,
 I gave way to my humors, to my passion:
-Bold were my words, because my deeds were not
+Bold were my words, because my deeds were not.
 Now every planless measure, chance event,
 The threat of rage, the vaunt of joy and triumph,
 And all the May-games of a heart overflowing,
@@ -437,7 +437,7 @@ Whom never art of man conciliated.
    [Paces in agitation through the chamber, then pauses, and, after
    the pause, breaks out again into audible soliloquy.
 
-What it thy enterprise? thy aim? thy object?
+What is thy enterprise? thy aim? thy object?
 Hast honestly confessed it to thyself?
 Power seated on a quiet throne thou'dst shake,
 Power on an ancient, consecrated throne,
@@ -2779,7 +2779,7 @@ Is a most noble and deserving gentleman.
 COUNTESS.
 That is he, sister!
 
-THEKLA (to the COUNTESS, with narks of great oppression of spirits).
+THEKLA (to the COUNTESS, with marks of great oppression of spirits).
            Aunt, you will excuse me?
 
               (Is going).
@@ -3775,7 +3775,7 @@ ANSPESSADE.
 Halt! Front! Present!
 
 WALLENSTEIN (after he has run through them with his eye, to the
-   NSPESSADE).
+   ANSPESSADE).
 I know thee well. Thou art out of Brueggen in Flanders:
 Thy name is Mercy.
 
@@ -4294,7 +4294,7 @@ It cannot be; I may not, will not think
 That Max. can leave me.
 
 MAX.
-             Ob, my God!
+             Oh, my God!
 
 WALLENSTEIN
                    I have
@@ -4829,7 +4829,7 @@ Who goes with me must be prepared to perish.
    into her mother's arms. The curtain falls. The music becomes
    loud and overpowering, and passes into a complete war-march--the
    orchestra joins it--and continues during the interval between the
-   second and third acts.
+   third and fourth acts.
 
 
 
@@ -5081,7 +5081,7 @@ At my own instance. Hark ye, burgomaster!
 What is your name?
 
 BURGOMASTER.
-          Pachhalbel, my it please you.
+          Pachhalbel, may it please you.
 
 WALLENSTEIN.
 Hark ye! But let it go no further, what I now
@@ -6464,7 +6464,7 @@ So then!
 MACDONALD.
      An altered case!
 
-BUTLER (to DEVEREU%).
+BUTLER (to DEVEREUX).
               Thou wretched man
 So easily leavest thou thy oath and colors?
 
@@ -6675,7 +6675,7 @@ The manifesto says--"alive or dead."
 Alive--'tis not possible--you see it is not.
 
 DEVEREUX.
-Well, dead then! dead! But bow can we come at him.
+Well, dead then! dead! But how can we come at him.
 The town is filled with Terzky's soldiery.
 
 MACDONALD.
@@ -6817,7 +6817,7 @@ The servants of the court? for he has here
 A numerous company of followers.
 
 BUTLER.
-The attendants fills the right wing: he hates bustle,
+The attendants fill the right wing: he hates bustle,
 And lodges in the left wing quite alone.
 
 DEVEREUX.
@@ -7027,7 +7027,7 @@ WALLENSTEIN.
             Fancies!
 
 COUNTESS.
-                 Ob, my soul
+                 Oh, my soul
 Has long been weighed down by these dark forebodings,
 And if I combat and repel them waking,
 They still crush down upon my heart in dreams,
@@ -7558,7 +7558,7 @@ SCENE VII.
 GORDON (throwing himself between him and them).
               No, monster!
 First over my dead body thou shalt tread. I will
-Hot live to see the accursed deed!
+Not live to see the accursed deed!
 
 BUTLER (forcing him out of the way).
 Weak-hearted dotard!
